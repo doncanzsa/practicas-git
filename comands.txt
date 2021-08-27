@@ -32,3 +32,6 @@ gut pull
 git clone
 
 
+.gitignore
+es un archivo que contiene en él,
+el nombre de los archivos y carpetas a ignorar
