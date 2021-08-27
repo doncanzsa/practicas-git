@@ -39,11 +39,11 @@ agrega el origen remoto de la direccion ingresada.
 git push -u origin <branch name> 
 envia el codigo agregado al repositorio a la rama especificada
 
-gut pull
-
+git pull
+Nos sirve para descargar los ultimos cambios cargados en el repositorio
 
 git clone
-
+Se utiliza para clonar un proyecto
 
 .gitignore
 es un archivo que contiene en él,
