@@ -17,6 +17,12 @@ para configurar el email del usuario
 git config --global user.name
 para configurar el nombre del usuario
 
+git checkout -- <fiel>
+para revertir los cambios de un archivo
+
+git diff <fiel>
+para ver las direfencias de un archivo modificado
+
 git push
 
 
