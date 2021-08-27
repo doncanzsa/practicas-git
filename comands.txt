@@ -52,3 +52,5 @@ el nombre de los archivos y carpetas a ignorar
 git merge <brach name>
 Une las ramas desde la rama actual a la rama especificada
 
+git branch -d <brach name>
+borra la rama especificada (en caso de ya no nesecitarla)
