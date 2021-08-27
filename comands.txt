@@ -23,6 +23,12 @@ para revertir los cambios de un archivo
 git diff <fiel>
 para ver las direfencias de un archivo modificado
 
+git branch
+Muestra las ramas que existen (la principal es master)
+
+git branch <name>
+Crea una nueva rama del repositorio con el nombre asignado
+
 git push
 
 
