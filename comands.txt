@@ -29,8 +29,15 @@ Muestra las ramas que existen (la principal es master)
 git branch <name>
 Crea una nueva rama del repositorio con el nombre asignado
 
-git push
+git checkout <name branch>
+permite moverse entre ramas del repositorio
+(Moviendose al nombre ingresado)
 
+git remote add origin <url repository>
+agrega el origen remoto de la direccion ingresada.
+
+git push -u origin <branch name> 
+envia el codigo agregado al repositorio a la rama especificada
 
 gut pull
 
