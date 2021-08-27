@@ -1,0 +1,28 @@
+git init
+Para inicializar un proyecto nuevo
+
+git add
+Para agregar al entorno de trabajo (Staging Area)
+
+git status
+Para ver el estado de nuestros archivos
+
+git commit -m ""
+para crear puntos de control de nuestro codigo
+-m es el comentario que se deja referente a ese punto. puesto entre comillas
+
+git config --global user.email
+para configurar el email del usuario
+
+git config --global user.name
+para configurar el nombre del usuario
+
+git push
+
+
+gut pull
+
+
+git clone
+
+
